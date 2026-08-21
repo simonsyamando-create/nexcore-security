@@ -1,0 +1,1 @@
+Optional: add a compressed MP4 named hero.mp4 here. The website automatically falls back to assets/images/hero-campus.jpg on unsupported devices or when reduced motion is enabled.
